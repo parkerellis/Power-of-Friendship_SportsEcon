@@ -2,7 +2,7 @@
 # Does the “Power of Friendship”Lead to Playoff Success in Major League Baseball?
 
 
-This repository contains the code and data pipeline used to construct the "teammate mention frequency" proxy for team chemistry, **The Power of Friendship**, in MLB playoff games  to estimate its effect on game outcomes. The project compiles extensive information from **332 postseason games** played between 2014 and 2024 (excluding 2020), including interview transcripts from players and coaches.
+This repository contains the code and data pipeline used to construct my "teammate mention frequency" proxy for team chemistry, **The Power of Friendship**, in MLB playoff games  to estimate its effect on game outcomes. The project compiles extensive information from **332 postseason games** played between 2014 and 2024 (excluding 2020), including interview transcripts from players and coaches.
 
 **READ:** This was a major project done within a few days, and also my first time using Google Colab---my focus was obtaining the dataset quickly as opposed to creating a clean replicable program; thus the formatting and organization of this project is not optimized or intended for reproduction. I include it rather as a general overview of the data collection process for my Sports Econ paper, and familiarity with different Python packages.
 ---
