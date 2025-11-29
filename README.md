@@ -10,7 +10,7 @@ This repository contains the code and data pipeline used to construct my novel p
 
 The central contribution of this project is the creation of a unique, behavior-based measure of team chemistry. Rather than relying on peer effects, shared characteristics, or past-game momentum, this work uses direct language from team personnel to quantify how frequently teammates mention one another in game-day interviews.
 
-This measure, **Teammate Mention Frequency (TMF)**, captures real-time social cohesion using text scraped from official transcript sources.
+My theory for the proxy: players on teams with better team chemistry are more inclined to mention their teammate's names in interviews, thus a higher frequency of teammate mentions = higher team chemistry.
 
 ---
 
