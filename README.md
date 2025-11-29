@@ -1,5 +1,6 @@
 # Power-of-Friendship_SportsEcon
-# MLB Playoff Chemistry Analysis
+# Does the “Power of Friendship”Lead to Playoff Success in Major League Baseball?
+
 
 This repository contains the code and data pipeline used to construct the "teammate mention frequency" proxy for team chemistry, **The Power of Friendship**, in MLB playoff games  to estimate its effect on game outcomes. The project compiles extensive information from **332 postseason games** played between 2014 and 2024 (excluding 2020), including interview transcripts from players and coaches.
 
