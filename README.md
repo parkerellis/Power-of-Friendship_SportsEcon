@@ -1,16 +1,16 @@
 # Power-of-Friendship_SportsEcon
 # MLB Playoff Chemistry Analysis
 
-This repository contains the code and data pipeline used to construct my novel proxy for team chemistry, **The Power of Friendship**, in MLB playoff games  to estimate its effect on game outcomes. The project compiles extensive information from **332 postseason games** played between 2014 and 2024 (excluding 2020), and introduces a chemistry metric based on interview transcripts from players and coaches.
+This repository contains the code and data pipeline used to construct the "teammate mention frequency" proxy for team chemistry, **The Power of Friendship**, in MLB playoff games  to estimate its effect on game outcomes. The project compiles extensive information from **332 postseason games** played between 2014 and 2024 (excluding 2020), including interview transcripts from players and coaches.
 
-**READ:** This was a major project done within a few days, and also my first time using Google Colab---my focus was obtaining the dataset quickly as opposed to creating a clean replicable program; thus the formatting and organization of this project is not  clean and/or optimized. I include it rather as a general overview of data collection process for my Sports Econ paper.
+**READ:** This was a major project done within a few days, and also my first time using Google Colab---my focus was obtaining the dataset quickly as opposed to creating a clean replicable program; thus the formatting and organization of this project is not optimized or intended for reproduction. I include it rather as a general overview of the data collection process for my Sports Econ paper, and familiarity with different Python packages.
 ---
 
 ## 📌 Overview
 
-The central contribution of this project is the creation of a unique, behavior-based measure of team chemistry. Rather than relying on peer effects, shared characteristics, or past-game momentum, this work uses direct language from team personnel to quantify how frequently teammates mention one another in game-day interviews.
+The central contribution of this project is the creation of a unique, behavior-based measure of team chemistry. Rather than relying on peer effects, shared characteristics, or past-game momentum, this project uses direct language from team personnel to quantify how frequently teammates mention one another in game-day interviews.
 
-My theory for the proxy: players on teams with better team chemistry are more inclined to mention their teammate's names in interviews, thus a higher frequency of teammate mentions = higher team chemistry.
+My theory for this proxy: players on teams with better team chemistry are more inclined to mention their teammate's names in interviews, thus a higher frequency of teammate mentions = higher team chemistry.
 
 ---
 
