@@ -1,7 +1,7 @@
 # Power-of-Friendship_SportsEcon
 # MLB Playoff Chemistry Analysis
 
-This repository contains the code and data pipeline used to construct my novel proxy for team chemistry, **The Power of Friendship** in MLB playoff games  to estimate its effect on game outcomes. The project compiles extensive information from **332 postseason games** played between 2014 and 2024 (excluding 2020), and introduces a chemistry metric based on interview transcripts from players and coaches.
+This repository contains the code and data pipeline used to construct my novel proxy for team chemistry, **The Power of Friendship**, in MLB playoff games  to estimate its effect on game outcomes. The project compiles extensive information from **332 postseason games** played between 2014 and 2024 (excluding 2020), and introduces a chemistry metric based on interview transcripts from players and coaches.
 
 **READ:** This was a major project done within a few days, and also my first time using Google Colab---my focus was obtaining the dataset quickly as opposed to creating a clean replicable program; thus the formatting and organization of this project is not very clean and/or optimized. I include it rather as a general overview of the process that went into the data collections for my Sports Econ paper.
 ---
